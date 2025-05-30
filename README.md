@@ -1,7 +1,5 @@
-My Projects
+Erik de Jong
 ================
-
-# Erik de Jong
 
 Thanks for visiting my GitHub! Here, I manage and showcase a variety of
 personal and hobby projects, ranging from Epi projects to exploring
