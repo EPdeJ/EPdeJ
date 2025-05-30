@@ -14,15 +14,15 @@ work on
 
 ------------------------------------------------------------------------
 
-\## Example projects {.tabset}
+## Example projects {.tabset}
 
-\### GPX elevation profiles
+### GPX elevation profiles
 
 Turn a .gpx file with elevation data into a elevation graph with the
 help of `sf` and `ggplot`.
 <img src="images/E2_Yuanshan Valley.png" width="75%" height="auto"/>
 
-\### GPX maps
+### GPX maps
 
 Turn a .gpx file with elevation data into a elevation graph with the
 help of `sf` and `leaflet`.
