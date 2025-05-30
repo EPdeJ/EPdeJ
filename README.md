@@ -34,9 +34,9 @@ A small project to plot 200 m transects with 10m x 10m plots from ecological fie
 ### Future planning
 
 - Turn the cycling plot functions into a cran package with the following functionalities:
--- Plot elevation profile from a gpx
--- Plot an interactive leaflet map from a gpx
--- Provide weather condition summaries along the gpx route
+  - Plot elevation profile from a gpx
+  - Plot an interactive leaflet map from a gpx
+  - Provide weather condition summaries along the gpx route
 - Add (previous) Epi projects to repository in SAS and R
 
 
