@@ -25,10 +25,18 @@ work on
 
 ### Mapping field work transects 
 
-For my wife's ecological research, 200 m transects with 10m x 10m plots needed to be mapped for publication. With the use of `sf` and `tmap` a short manual was written how to plot such transects in a comprehensive overview map. 
+A small project to plot 200 m transects with 10m x 10m plots from ecological fieldwork. The produces plots are publication ready and a manual is provided to reproduce such plots. The cran packages `sf` and `tmap` are used to plot such transects in a comprehensive overview map. 
 
 <img src="https://github.com/EPdeJ/JPN-coast-research/blob/main/Images/Karatsu_map.png" width="75%" height="auto"/>
 
 [Transect maps repository](https://github.com/EPdeJ/JPN-coast-research)
+
+### Future planning
+
+- Turn the cycling plot functions into a cran package with the following functionalities:
+-- Plot elevation profile from a gpx
+-- Plot an interactive leaflet map from a gpx
+-- Provide weather condition summaries along the gpx route
+- Add (previous) Epi projects to repository in SAS and R
 
 
