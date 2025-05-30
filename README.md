@@ -16,10 +16,18 @@ work on
 
 ## Example projects
 
+### Cycling plots
+
 | GPX elevation profiles  | GPX maps |
 | ------------- | ------------- |
 | Turn a .gpx file with elevation data into a elevation graph with the help of `sf` and `ggplot`. | Turn a .gpx file with elevation data into a elevation graph with the help of `sf` and `leaflet`. | 
 | <img src="images/E2_Yuanshan Valley.png" width="95%" height="auto"/>  | <img src="images/E2_Yuanshan Valley_map.png" width="95%" height="auto"/>  |
-| [Cycling plots repository](https://github.com/EPdeJ/cyclingplots) | [Cycling plots repository](https://github.com/EPdeJ/cyclingplots) |
+| [Cycling plots repository](https://github.com/EPdeJ/cyclingplots) | 
+
+### Mapping field work transects 
+
+For my wife's ecological research, 10m x 10m transects needed to be mapped for publication. With the use of `sf` and `tmap` a short manual was written how to plot such transects in a comprehensive overview map. 
+
+<img src="https://github.com/EPdeJ/JPN-coast-research/blob/main/Images/Karatsu_map.png" width="75%" height="auto"/>
 
 
