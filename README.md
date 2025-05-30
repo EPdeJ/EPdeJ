@@ -20,6 +20,6 @@ work on
 | ------------- | ------------- |
 | Turn a .gpx file with elevation data into a elevation graph with the help of `sf` and `ggplot`. | Turn a .gpx file with elevation data into a elevation graph with the help of `sf` and `leaflet`. | 
 | <img src="images/E2_Yuanshan Valley.png" width="95%" height="auto"/>  | <img src="images/E2_Yuanshan Valley_map.png" width="95%" height="auto"/>  |
-| [Cycling plots repository](/cyclingplots) | [Cycling plots repository](/cyclingplots) |
+| [Cycling plots repository](../cyclingplots) | [Cycling plots repository](../cyclingplots) |
 
 
