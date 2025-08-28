@@ -14,6 +14,10 @@ work on
 
 ## Example projects
 
+### Taiwan Road Safety
+
+An ongoing project using publicly available datasets, with the purpose of exploring traffic accidents in Taipei City and finding leads for policy changes that prevent traffic injuries and reduce traffic mortality. Currently, initial data has been cleaned and joined with climate data for time-series analysis.
+
 ### Cycling plots
 
 | GPX elevation profiles  | GPX maps |
